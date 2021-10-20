@@ -18,7 +18,7 @@
                     </p>
                 </div>
             </field>
-            <field name="report_template" ref="report_patient_card"/>
+            <!-- <field name="report_template" ref="report_patient_card"/> -->
             <field name="report_name">Patient Card</field>
         </record>
     </data>
