@@ -1,8 +1,8 @@
 {
     'name': 'Hospital Management',
     'version': '14.0.1',
-    'category': '',
-    'sequence': '',
+    'category': 'hospital',
+    #'sequence': '',
     'depends': [
         'sale',
         'mail',
